@@ -1,12 +1,13 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 05/01/2019 03:24
+  	Creation date: 24/09/2020 22:41
   	*/
 
 @font-face {
   font-family: "Flaticon";
   src: url("./Flaticon.eot");
   src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
        url("./Flaticon.woff") format("woff"),
        url("./Flaticon.ttf") format("truetype"),
        url("./Flaticon.svg#Flaticon") format("svg");
@@ -29,11 +30,11 @@ font-style: normal;
 margin-left: 20px;
 }
 
-.flaticon-placeholder:before { content: "\f100"; }
-.flaticon-world:before { content: "\f101"; }
-.flaticon-hotel:before { content: "\f102"; }
-.flaticon-cooking:before { content: "\f103"; }
-.flaticon-guest:before { content: "\f104"; }
-.flaticon-idea:before { content: "\f105"; }
-.flaticon-handshake:before { content: "\f106"; }
-.flaticon-chair:before { content: "\f107"; }
+.flaticon-problem-1:before { content: "\f100"; }
+.flaticon-problem:before { content: "\f101"; }
+.flaticon-jigsaw:before { content: "\f102"; }
+.flaticon-integration:before { content: "\f103"; }
+.flaticon-question:before { content: "\f104"; }
+.flaticon-problem-2:before { content: "\f105"; }
+.flaticon-puzzle:before { content: "\f106"; }
+.flaticon-puzzle-1:before { content: "\f107"; }
